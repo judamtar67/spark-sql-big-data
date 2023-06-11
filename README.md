@@ -6,6 +6,53 @@ KELAS : TI-3C
 NIM : 2041720168
 ##
 
+PRAKTIKUM
+##
+1. Analitik dengan DataFrames
+
+    ![SS](img/01_1.png)
+    ![SS](img/01_2.png)
+    ![SS](img/01_3.png)
+    ![SS](img/01_4.png)
+
+2. Membuat DataFrame dari Database Eksternal
+
+    ![SS](img/02_1.png)
+    ![SS](img/02_2.png)
+
+3. Mengonversi DataFrames ke RDDs
+
+    ![SS](img/03.png)
+
+4. Membuat Datasets
+
+    ![SS](img/04_1.png)
+    ![SS](img/04_2.png)
+
+5. Mengonversi DataFrame ke Datasets dan sebaliknya
+
+    ![SS](img/05.png)
+
+6. Mengakses Metadata menggunakan Catalog
+
+    ![SS](img/06_1.png)
+    ![SS](img/06_2.png)
+
+7. Bekerja dengan berkas teks
+
+    ![SS](img/07_1.png)
+    ![SS](img/07_2.png)
+
+8. Bekerja dengan JSON
+
+    ![SS](img/08_1.png)
+    ![SS](img/08_2.png)
+
+9. Bekerja dengan CSV
+
+    ![SS](img/09.png)
+##
+
 PERTANYAAN
 ##
 
